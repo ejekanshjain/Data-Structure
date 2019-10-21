@@ -73,7 +73,7 @@ void peek(stack *p)
 {
     if(p->top==-1)
     {
-        printf("\nUnderFlow\n");
+        printf("\nUnderflow\n");
     }
     else
     {
