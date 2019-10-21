@@ -229,7 +229,7 @@ void search(Node **p)
         if(temp->info==data)
         {
             flag=1;
-            printf("Found at %d\n",i);
+            printf("\nFound at %d\n",i);
         }
         i++;
     }
